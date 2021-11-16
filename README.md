@@ -1,5 +1,5 @@
 # Kosti_web_app
-Atlas lidských kostí, webové aplikaci v prostředí pythoní knihovny Bottle
+Atlas lidských kostí - webová aplikace v prostředí pythoní knihovny Bottle
 
 ## Instalace
 1. stáhni si depozitář
